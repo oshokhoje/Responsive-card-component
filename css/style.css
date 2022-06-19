@@ -24,7 +24,7 @@ main {
     width: 30em;
     display: flex;
     flex-direction: column;
-    padding: 3.33em 4.66em;
+    padding: 3.33em 3em;
     box-sizing: border-box;
 }
 .page-img {
